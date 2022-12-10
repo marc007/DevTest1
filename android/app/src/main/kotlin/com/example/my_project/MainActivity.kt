@@ -1,4 +1,4 @@
-package com.mycompany.devtest1
+package com.lbcalc.devtest1
 
 import io.flutter.embedding.android.FlutterActivity
 
