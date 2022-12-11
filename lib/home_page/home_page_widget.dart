@@ -42,7 +42,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Text(
-                'Hello World',
+                'Hello World 2',
                 textAlign: TextAlign.center,
                 style: FlutterFlowTheme.of(context).bodyText1.override(
                       fontFamily: 'Poppins',
